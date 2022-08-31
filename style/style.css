@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.clock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: linear-gradient(29deg,rgb(206, 156, 221),rgb(236, 201, 102));
+    background-attachment: fixed;
+}
